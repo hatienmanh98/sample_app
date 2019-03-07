@@ -1,0 +1,9 @@
+{
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "boundary",
+    "editor.rulers": [
+        80
+    ],
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true
+}
