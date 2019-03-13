@@ -30,4 +30,45 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  # hello: "Hello world"
+  layouts:
+
+    footer:
+      tuto: "Ruby on Rails Tutorial"
+      the: "The"
+      by: "By"
+      about: "About"
+      contact: "Contact"
+      news: "News"
+
+    header:
+      sample_app: "sample_app"
+      home: "Home"
+      help: "Help"
+      login: "Log in"
+
+  static_pages:
+
+    about:
+      tuto: "Ruby on Rails Tutorial"
+      the: "The"
+      is: "is a"
+      book: "book"
+      and: "and"
+      screencasts: "screencasts series"
+      toteach: "to teach web development with"
+      ruby: "Ruby on Rails"
+      end: "This is the sample application for the tutorial."
+
+    contact:
+      info: "Contact the Ruby on Rails Tutorial about the sample app at the"
+
+    help:
+      gethelp: "Get help on the Ruby on Rails Tutorial at the"
+      toget: "To get help on this sample app, see the"
+
+    home:
+      welcome: 'Welcome to Sample App'
+      info: "This is the home page for the"
+      tuto: "Ruby on Rails Tutorial"
+      end: "sample application."
