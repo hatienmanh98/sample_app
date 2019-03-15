@@ -72,3 +72,10 @@ en:
       info: "This is the home page for the"
       tuto: "Ruby on Rails Tutorial"
       end: "sample application."
+      signup: "Sign up now!"
+
+  users:
+
+    new:
+      signup: "Sign up"
+      info: "This will be a signup page for new users."
