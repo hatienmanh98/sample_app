@@ -68,10 +68,11 @@ en:
       toget: "To get help on this sample app, see the"
 
     home:
-      welcome: "Welcome to Sample App"
+      welcome: 'Welcome to Sample App'
       info: "This is the home page for the"
       tuto: "Ruby on Rails Tutorial"
       end: "sample application."
+      signup: "Sign up now!"
 
   users:
 
